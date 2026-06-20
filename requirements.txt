@@ -1,0 +1,9 @@
+# This file lists the dependencies for the project. You can install them using uv add -r requirements.txt. No need for this file.
+
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+langchain-anthropic
+python-dotenv
+langchain-google-genai
