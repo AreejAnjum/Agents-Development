@@ -7,8 +7,13 @@ wheels/
 *.egg-info
 
 # Virtual environments
-.venv
+.venv/
 
 # Environment variables
 .env
 
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
